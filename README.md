@@ -2,13 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the project
+In this project, the statistical measures of a wine data set is calculated using mean, median and mode functions and show the data on a table.
+
 ## Installations:-
 
 1. Git clone
 2. Run yarn install in terminal
 3. yarn start
 
-### `yarn start`
+![table](https://github.com/NirojEdulab/stats/assets/117710192/e8b28098-601e-4049-ab35-b30cf7a7bf52)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
