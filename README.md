@@ -7,7 +7,7 @@ In this project, the statistical measures of a wine data set is calculated using
 
 ## Installations:-
 
-1. Git clone
+1. Git clone https://github.com/NirojEdulab/stats.git
 2. Run yarn install in terminal
 3. yarn start
 
